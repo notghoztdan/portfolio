@@ -109,8 +109,8 @@ Before starting this course, I mostly focused on single PCs and building them, r
 
 ### Next Steps for My Technical Skills
 As my interest in networking has grown, there are two specific things I want to learn and try figure out next:
-* **Making Ethernet Cables:** I want to learn how to properly crimp and wire up my own RJ45 Ethernet cables from scratch.
-* **Setting Up Subnets:** Getting confident with IP addressing and subnets so I can properly split up and organise networks on my own.
+* **Making Ethernet Cables:** I want to learn how to properly crimp and wire up RJ45 Ethernet cables.
+* **Setting Up Subnets:** Getting confident with IP addresses and subnets so I can properly split up and organise networks.
 
 ---
 
