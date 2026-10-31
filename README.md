@@ -71,7 +71,7 @@ To get my Core 1 & Core 2 and ESP Work, I depend on a few main tools:
 ### How My Setup Helps Me Solve Problems
 Having these tools helps me alot, especially for our **ESP (Employer Set Project)** prep. Using **Cisco Packet Tracer** It lets me make/test a whole network in a digital environment and test everything out safely before we actually build or touch anything in real life. If something breaks in Packet Tracer, it's easy to see why and fix it without messing up physical hardware. 
 
-Moving forward, I want to become faster at using Cisco Packet Tracer so I can set up and troubleshoot networks without breaking too much.
+Moving forward, I want to become faster at using Cisco Packet Tracer so I can set up and troubleshoot networks without breaking too much. I am also keen on learning Windows Server, Hyper-V, Linux and VLANs.
 
 ---
 
@@ -102,7 +102,7 @@ For me, acting like a real IT professional comes down to how YOU handle yourself
 ## Week 5: Industry Inspiration & My Technical Direction
 
 ### Careers I an interested in OR Companies That Interest Me
-My main goal in the tech industry is to become an **IT Engineer**. When I'm looking at major companies in my opinon I see **Cisco** and **Oracle** stand out the most because of their hardware, networking gear, and how database/cloud systems run in almost every major business.
+My main goal in the tech industry is to become either an **IT Engineer**, **Network Engineer**, **IT Support engineer** or **Systems Engineer**. When I'm looking at major companies in my opinon I see **Cisco** and **Oracle** stand out the most because of their hardware, networking infrastructure, and how database/cloud systems run in almost every major business. Another area where I want to work IT in is in international oil & gas companies, Telecommunications and technology companies, embassies and large organisations rather than picking local IT support jobs in the future.
 
 ### How My Interests Have Grown
 Before starting this course, I mostly focused on single PCs and building them, repairing hardware, and fixing simple OS issues. Since starting DSS, I have been more interested in **Networking** and **Windows Server**. Seeing how lots of computers connect together and get managed from a central server is interesting.
@@ -119,8 +119,8 @@ As my interest in networking has grown, there are two specific things I want to 
 ### Looking Back So Far
 I am at my best when doing hands-on work and practical troubleshooting at home. Fixing physical PC hardware, checking firewall rules, or testing setups in Packet Tracer, I like figuring out how systems actually work. Over the few weeks, my interests have grown from just fixing computers to wanting to understand networks with Windows Server 2019.
 
-### What It Means to Be a IT Pro
-This year taught me that being an IT Pro isn't just about knowing how to fix a computer. You have to be confident in what you know, make smart but informed guesses when diagnosing a problem, and with also staying calm and respectful with colleagues.
+### What It Means to Be a IT Professional
+This year taught me that being an IT Professional isn't just about knowing how to fix a computer. You have to be confident in what you know, make smart but informed guesses when diagnosing a problem, and with also staying calm and respectful with colleagues.
 
 ### What I want to promise my self to do for Year 2
 * **Grades:** Pass all my exams with **at least a C grade**.
